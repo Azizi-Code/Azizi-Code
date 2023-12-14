@@ -12,10 +12,10 @@
 🚀 My expertise lies in microservices, software architecture, domain-driven design (DDD), event sourcing, CQRS, and DevOps. I thrive on pushing the boundaries of what's possible and love tackling challenges head-on.
 
 <p align="center"> 
-  <a href="https://www.youtube.com/Rhazizi" alt="roohallah azizi's youtube">
+  <a href="https://www.youtube.com/Azizi-Code" alt="roohallah azizi's youtube">
    <img src="https://img.shields.io/badge/%20-YouTube-%23FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
  </a>
- <a href="https://github.com/rhazizi" alt="roohallah azizi's github">
+ <a href="https://github.com/Azizi-Code" alt="roohallah azizi's github">
    <img src="https://img.shields.io/badge/%20-GitHub-black?logo=GitHub&logoColor=white&style=for-the-badge" />
  </a>
  <a href="https://www.linkedin.com/in/roohallah-azizi" alt="roohallah azizi's linkedin">
