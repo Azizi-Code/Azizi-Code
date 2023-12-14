@@ -7,7 +7,7 @@
 </p>
 
 
-👨‍💻I'm a passionate .NET software engineer with a focus on backend development and distributed systems. With a wealth of experience, I specialize in crafting resilient, responsive, scalable, and maintainable systems using C#, .NET, and .NET Core, leveraging cutting-edge technologies. 
+👨‍💻I'm a passionate .NET engineer with a focus on backend development and distributed systems. With a wealth of experience, I specialize in crafting resilient, responsive, scalable, and maintainable systems using C#, .NET, and .NET Core, leveraging cutting-edge technologies. 
 <br/>
 🚀 My expertise lies in microservices, software architecture, domain-driven design (DDD), event sourcing, CQRS, and DevOps. I thrive on pushing the boundaries of what's possible and love tackling challenges head-on.
 
