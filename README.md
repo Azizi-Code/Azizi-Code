@@ -26,19 +26,19 @@
 <h2 align="center">🛠 Technologies & Skils</h2>
 
 <p align="center">
-    <a href="">
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="54"
             height="54" style="vertical-align:top; margin:4px;">
     </a>
     <a href="https://dotnet.microsoft.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="54"
-            height="54" alt="dotnet" style="vertical-align:top; margin:4px;">
+            height="54" alt="dotnet core" style="vertical-align:top; margin:4px;">
     </a>
    <a href="https://dotnet.microsoft.com/en-us/apps/xamarin">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" width="54"
             height="54" alt="xamarin" style="vertical-align:top; margin:4px;">
     </a>
-    <a href="">
+    <a href="https://www.postgresql.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
             width="54" height="54" alt="postgres" style="vertical-align:top; margin:4px">
     </a>
@@ -70,7 +70,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
             alt="typescript" width="54" height="54" style="vertical-align:top; margin:4px;">
     </a>
-    <a href="https://dotnet.microsoft.com/">
+    <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="54"
             height="54" alt="html5" style="vertical-align:top; margin:4px;">
     </a>
