@@ -85,5 +85,5 @@
 
 <h2 align="center">🚀 Activities</h2>
 <p align="center">
-  <a href="#" alt="roohallah azizi's github stats"><img src="https://github-readme-stats.vercel.app/api?username=rhazizi" /></a>
+  <a href="#" alt="roohallah azizi's github stats"><img src="https://github-readme-stats.vercel.app/api?username=Azizi-Code" /></a>
 </p>
