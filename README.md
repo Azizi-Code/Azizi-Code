@@ -21,6 +21,9 @@
  <a href="https://www.linkedin.com/in/roohallah-azizi" alt="roohallah azizi's linkedin">
    <img src="https://img.shields.io/badge/%20-LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/roohallah-azizi" />
  </a>
+  <a href="https://azizi-code.github.io/" alt="roohallah azizi's portfolio">
+   <img src="https://img.shields.io/badge/%20-Portfolio-yellow?logo=googledocs&logoColor=white&style=for-the-badge&link=https://azizi-code.github.io/" />
+ </a>
 </p>
 
 <h2 align="center">🛠 Technologies & Skils</h2>
